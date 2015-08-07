@@ -12,8 +12,8 @@ _You can find a working prototype here: https://young-reaches-7800.herokuapp.com
 
 ## Setup
 
-* _clone this repository
-* _Install and run!
+* clone this repository
+* Install and run!
 
 _The Gemfile will take you the rest of the way._
 
