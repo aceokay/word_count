@@ -6,7 +6,7 @@
 
 ## Description
 
-_This simple app takes two strings. The first is a large string (usually) that you would like to have searched through. The second string, the search term, is searched for within the first string. The app will return the number of times the search term is found within the first string._
+_This app takes two strings. The first is a large string (usually) that the user would like to have searched through. The second string, the search term, is searched for within the first string. The app will return the number of times the search term is found within the first string._
 
 ## Setup
 
