@@ -1,6 +1,6 @@
 # _Word Count_
 
-##### _A simple app that takes a string and returns the number of times another string occurs within the first, 8/5/2015_
+##### _A simple app that takes a string and returns the number of times another string occurs within the first, 8/7/2015_
 
 #### By _**Austin Kincaid**_
 
