@@ -16,7 +16,7 @@ describe('String#word_count') do
   end
 
   it('handles strings that abut punctuation characters') do
-    expect(('The Philippine national flower is called sampaguita. The sampaguita, like other perfume laden flowers, is highly sought after').word_count('sampaguita')).to(eq(2))
+    expect(("The Philippines' national flower is called sampaguita. The sampaguita, like other perfume laden flowers, is highly sought after").word_count('sampaguita')).to(eq(2))
   end
 
 end
