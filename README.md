@@ -8,6 +8,8 @@
 
 _This app takes two strings. The first is a large string (usually) that the user would like to have searched through. The second string, the search term, is searched for within the first string. The app will return the number of times the search term is found within the first string._
 
+_You can find a working prototype here: https://young-reaches-7800.herokuapp.com/_
+
 ## Setup
 
 * _clone this repository
